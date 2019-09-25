@@ -1,0 +1,9 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 14 at Sort.compute(218): use of potentially uninitialized variable (GetKeyWithCheck)
+  api=14 insize=9814 outsize=5041 ok=1
+Cmd: translateComputeKernel
+  api=14 insize=2861 outsize=4581 ok=1
+
+Quitting shader compiler process
